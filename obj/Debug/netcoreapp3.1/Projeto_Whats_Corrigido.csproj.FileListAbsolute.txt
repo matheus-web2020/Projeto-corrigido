@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\bin\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.exe
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\bin\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.deps.json
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\bin\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\bin\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\bin\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.dll
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\bin\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.pdb
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\obj\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\obj\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\obj\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\obj\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\obj\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.dll
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\obj\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.pdb
+C:\Users\Matheus\Desktop\SENAI\Projeto_Whats_Corrigido\obj\Debug\netcoreapp3.1\Projeto_Whats_Corrigido.genruntimeconfig.cache

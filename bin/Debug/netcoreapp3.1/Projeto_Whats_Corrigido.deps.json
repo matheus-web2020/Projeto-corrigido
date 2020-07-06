@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projeto_Whats_Corrigido/1.0.0": {
+        "runtime": {
+          "Projeto_Whats_Corrigido.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_Whats_Corrigido/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
